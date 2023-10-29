@@ -3,7 +3,6 @@
 <p>Félicitations&nbsp;! Vous avez récemment rejoint une équipe de chercheurs de la <a href="http://www.fao.org/home/fr/">
   Food and Agriculture Organization of the United Nations (FAO)</a>, en tant que data analyst.</p>
 <figure><a href="https://user.oc-static.com/upload/2020/11/23/16061289311922_Capture%20d%E2%80%99e%CC%81cran%202020-11-23%20a%CC%80%2011.06.07.png" class="oc-imageLink oc-imageLink--disabled"><img src="https://user.oc-static.com/upload/2020/11/23/16061289311922_Capture%20d%E2%80%99e%CC%81cran%202020-11-23%20a%CC%80%2011.06.07.png" alt="Food and Agriculture Organization of the United Nations"></a>
-<figcaption>Food and Agriculture Organization of the United Nations</figcaption>
 </figure>
 <p>Son rôle&nbsp;? C’est l’un des organes qui composent l’ONU et dont l’objectif est «&nbsp;d’aider à construire un monde libéré de la faim&nbsp;».&nbsp;</p>
 <p>Le responsable de l’équipe, Marc, un chercheur en économie de la santé, est particulièrement enthousiaste à l’idée de votre arrivée au sein de son équipe. En effet, ce recrutement tombe à pic car Julien, l'ancien data analyst, a récemment été muté dans une autre équipe, et la vôtre vient de se voir confier la mission de réaliser une étude de grande ampleur sur le thème de la sous-nutrition dans le monde.</p>
