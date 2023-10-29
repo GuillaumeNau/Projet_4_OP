@@ -1,6 +1,7 @@
 <h1>Réalisez une étude de santé publique avec R ou Python</h1>
 <h3>Scénario</h3>
-<p>Félicitations&nbsp;! Vous avez récemment rejoint une équipe de chercheurs de la <a href="http://www.fao.org/home/fr/">Food and Agriculture Organization of the United Nations (FAO)</a>, en tant que data analyst.</p>
+<p>Félicitations&nbsp;! Vous avez récemment rejoint une équipe de chercheurs de la <a href="http://www.fao.org/home/fr/">
+  Food and Agriculture Organization of the United Nations (FAO)</a>, en tant que data analyst.</p>
 <figure><a href="https://user.oc-static.com/upload/2020/11/23/16061289311922_Capture%20d%E2%80%99e%CC%81cran%202020-11-23%20a%CC%80%2011.06.07.png" class="oc-imageLink oc-imageLink--disabled"><img src="https://user.oc-static.com/upload/2020/11/23/16061289311922_Capture%20d%E2%80%99e%CC%81cran%202020-11-23%20a%CC%80%2011.06.07.png" alt="Food and Agriculture Organization of the United Nations"></a>
 <figcaption>Food and Agriculture Organization of the United Nations</figcaption>
 </figure>
